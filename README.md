@@ -74,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,linux,ubuntu,git,github,html,css,github,html,js,linux,vscode,sublime,visualstudio,discord,figma,ps,pr,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,linux,ubuntu,git,github,html,css,github,js,linux,vscode,sublime,visualstudio,discord,figma,ps,pr,wordpress" />
   </a>
 </p>
 
