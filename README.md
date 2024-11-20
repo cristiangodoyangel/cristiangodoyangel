@@ -43,12 +43,17 @@
 
 
   
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Stats">
-      <img align="center" width=184% src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="TROPHY" />
+<a href="" title="Stats">
+      <img align="center" width=54% src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="TROPHY" />
     </a>
 
+<a href="" title="Stats">
+      <img align="center" width=54% src="https://github-readme-streak-stats.herokuapp.com/?user=cristiangodoyangel&theme=blueberry&hide_border=true" alt="TROPHY" />
+    </a>
 
-
+<a href="" title="Stats">
+      <img align="center" width=54% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="TROPHY" />
+    </a>
   
   </td>
 </tr>
