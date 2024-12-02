@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 Conocimiento en  **Java, Spring, Springboot**
+- 🔭 Conocimientos fuertes en  **Java, Spring, Springboot**
 
-- 🌱 Conocimiento en  **Javascript, HTML, CSS.**
+- 🌱 habilidades en  **Javascript, HTML, CSS.**
 
 - 🎥 Creo contenido para que juntos aprendamos mas de programación   [Canal de Youtube](https://www.youtube.com/@PastorCode)
 
