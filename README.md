@@ -61,7 +61,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo 📋 </h2></summary>
+    <summary><h2 style="display: inline-block">Todas las tecnologías que manejo 📋 </h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
