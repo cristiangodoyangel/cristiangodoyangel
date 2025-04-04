@@ -67,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,bootstrap,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,php,mysql,bootstrap,tailwind,aws,azure,docker,react,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress" />
   </a>
 </p>
 
