@@ -21,7 +21,7 @@
 <!--Intro start-->
 - 🔭 Conocimientos sólidos y experiencia en  **Java, Spring, Springboot**
 
-- 🧾 Contáctame **www.cristiangodoyangel.dev**
+- 🧾 Mi portafolio **www.cristiangodoyangel.dev**
 
 <!-- 🎥 Creo contenido para que juntos aprendamos mas de programación   [Canal de Youtube](https://www.youtube.com/@PastorCode)-->
 
