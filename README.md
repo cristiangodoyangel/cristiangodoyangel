@@ -1,7 +1,7 @@
-<!--horizontal divider(gradiant)-->
 
 
-<!--h1 without bottom border-->
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Mi nombre es Cristian Godoy Angel. </h1></summary>
@@ -10,7 +10,7 @@
 
 
 
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block"> Developer Fullstack | Java - Spring Boot</h1></summary>
@@ -18,7 +18,7 @@
 </div>
 
 
-<!--Intro start-->
+
 - 🔭 Conocimientos sólidos y experiencia en  **Java, Spring, Springboot**
 
 - 🧾 Mi portafolio <a href="https://www.cristiangodoyangel.dev/" target="_blank">**www.cristiangodoyangel.dev**</a>
@@ -32,9 +32,9 @@
 
 
 
-<!--- stats & Trophy (start) -->
+
 <p align="center">
-  <!--- stats (start) -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -58,16 +58,16 @@
 
 
 </p>        
-<!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Todas las tecnologías que manejo 📋 </h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,cs,php,mysql,bootstrap,tailwind,aws,azure,docker,react,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress" />
@@ -75,15 +75,15 @@
 </p>
 
 
-<!-- Contáctame -->
-<!--h2 without bottom border-->
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Conecta conmigo🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
+
 <p align="center">
   <a href="https://www.cristiangodoyangel.dev/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://github.com/cristiangodoyangel/cristiangodoyangel/blob/main/portfolio_5397503.png" alt="Mi Portafolio" height="60" width="60" />
