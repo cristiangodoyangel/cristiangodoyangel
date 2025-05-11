@@ -83,7 +83,7 @@
   </ul>
 </div>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" >
 
   <a href="https://www.cristiangodoyangel.dev/" target="_blank" rel="noopener noreferrer">
     <div style="background-color: #0077b5; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
