@@ -83,19 +83,20 @@
   </ul>
 </div>
 
-
 <p align="center">
+
   <a href="https://www.cristiangodoyangel.dev/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github.com/cristiangodoyangel/cristiangodoyangel/blob/main/portfolio_5397503.png" alt="Mi Portafolio" height="60" width="60" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Mi Portafolio" width="50" height="50"/>
   </a>
 
   <a href="https://www.linkedin.com/in/cristiangodoyangel/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 
   <a href="mailto:cristiangodoyangel@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jim-nielsen.com/watchos/512/mail-2020-03-26.png?rf=1024" alt="Email" height="50" width="50" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="50" height="50"/>
   </a>
+
 </p>
 
 
