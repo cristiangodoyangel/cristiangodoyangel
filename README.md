@@ -77,34 +77,19 @@
 
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta conmigo🤝</h2></summary>
-  </ul>
-</div>
+<h2 align="center">Conecta conmigo 🤝</h2>
 
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-
-  <a href="https://www.cristiangodoyangel.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="background-color: #0077b5; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Mi Portafolio" width="30" height="30" />
-    </div>
+<p align="center">
+  <a href="https://www.cristiangodoyangel.dev/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portafolio" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px;" />
   </a>
-
-  <a href="https://www.linkedin.com/in/cristiangodoyangel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="background-color: #0077b5; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="filter: brightness(0) invert(1);" />
-    </div>
+  <a href="https://www.linkedin.com/in/cristiangodoyangel/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px; filter: brightness(0) invert(1);" />
   </a>
-
-  <a href="mailto:cristiangodoyangel@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="background-color: #0077b5; border-radius: 50%; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="30" height="30" />
-    </div>
+  <a href="mailto:cristiangodoyangel@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px;" />
   </a>
-
-</div>
+</p>
 
 
 
