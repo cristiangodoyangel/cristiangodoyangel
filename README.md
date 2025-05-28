@@ -69,10 +69,9 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-      i=py,django,java,spring,cs,php,mysql,bootstrap,tailwind,aws,azure,docker,react,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress" />
-  </a>
+ 
+  [![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,cs,php,mysql,bootstrap,tailwind,aws,azure,docker,react,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress)](https://skillicons.dev)
+
 </p>
 
 
