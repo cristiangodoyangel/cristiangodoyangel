@@ -13,13 +13,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Developer Fullstack | Java - Spring Boot</h1></summary>
+    <summary><h1 style="display: inline-block"> Developer Fullstack | Python - Django - Pandas - Numpy</h1></summary>
   </ul>
 </div>
 
 
 
-- 🔭 Conocimientos sólidos y experiencia en  **Java, Spring, Springboot**
+- 🔭 Conocimientos sólidos y experiencia en  **backend, frontend, data science**
 
 - 🧾 Mi portafolio <a href="https://www.cristiangodoyangel.dev/" target="_blank">**www.cristiangodoyangel.dev**</a>
 
