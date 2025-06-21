@@ -69,10 +69,12 @@
 </div>
 
 <p align="center">
- 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
+    />
+  </a>
 </p>
-
 
 
 
