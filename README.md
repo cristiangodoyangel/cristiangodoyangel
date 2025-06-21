@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,seaborn"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,pandas,numpy,matplotlib,seaborn"
     />
   </a>
 </p>
@@ -96,7 +96,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,php,bootstrap,tailwind,aws,azure,idea,phpstorm,visualstudio,maven,postman,postgres,hibernate,ubuntu,mint,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,php,bootstrap,tailwind,aws,azure,idea,phpstorm,visualstudio,maven,postman,postgres,hibernate,ubuntu,mint,html,css,js,nodejs,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress"
     />
   </a>
 </p>
