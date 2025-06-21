@@ -64,7 +64,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Especialista en Python - Pandas 📋 </h2></summary>
+    <summary><h2 style="display: inline-block">Especialista en Python | Pandas | Numpy | Matplotlib | Seaborn 📋 </h2></summary>
   </ul>
 </div>
 
