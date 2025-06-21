@@ -64,14 +64,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Todas las tecnologías que manejo 📋 </h2></summary>
+    <summary><h2 style="display: inline-block">Especialista en Python - Pandas 📋 </h2></summary>
   </ul>
 </div>
 
 <p align="center">
  
-  [![My Skills](https://skillicons.dev/icons?i=py,django,java,spring,cs,php,mysql,bootstrap,tailwind,aws,azure,docker,react,idea,phpstorm,vscode,visualstudio,maven,postman,postgres,hibernate,linux,ubuntu,mint,git,github,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress)](https://skillicons.dev)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
 </p>
 
 
