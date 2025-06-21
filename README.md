@@ -78,17 +78,28 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> Herramientas que manejo </h2></summary>
+    <summary><h2 style="display: inline-block"> Tecnologías que manejo </h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker,vscode,mysql,firebase, react"
     />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,php,bootstrap,tailwind,aws,azure,idea,phpstorm,visualstudio,maven,postman,postgres,hibernate,ubuntu,mint,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress"
+    />
+  </a>
+</p>
+
+
+
 
 
 
