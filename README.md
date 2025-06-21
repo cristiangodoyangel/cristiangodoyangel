@@ -85,7 +85,18 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker,vscode,mysql,firebase, react"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker,vscode,mysql,firebase,react"
+    />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,php,bootstrap,tailwind,aws,azure,idea,phpstorm,visualstudio,maven,postman,postgres,hibernate,ubuntu,mint,html,css,js,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress"
     />
   </a>
 </p>
