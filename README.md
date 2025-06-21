@@ -76,6 +76,20 @@
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Herramientas que manejo </h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker"
+    />
+  </a>
+</p>
+
 
 
 <h2 align="center">Conecta conmigo 🤝</h2>
