@@ -13,13 +13,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Data Science | Machine Learning | Python - Django - Pandas - Numpy</h1></summary>
+    <summary><h1 style="display: inline-block"> Python - Django - Pandas - Numpy</h1></summary>
   </ul>
 </div>
 
 
 
-- 🔭 Conocimientos sólidos y experiencia en  ** data science, machine learning, fullstack dev**
+- 🔭 Conocimientos sólidos y experiencia en  ** Python backend - fullstack dev**
 
 - 🧾 Mi portafolio <a href="https://www.cristiangodoyangel.dev/" target="_blank">**www.cristiangodoyangel.dev**</a>
 
