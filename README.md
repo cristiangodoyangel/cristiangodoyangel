@@ -21,9 +21,9 @@
 </div>
 
 ---
-<div align="center">
-## Sobre mí 🚀
 
+## Sobre mí 🚀
+<div align="center">
 Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
 
  🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
@@ -31,9 +31,9 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
  🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
 </div>
 ---
-<div align="center">
-### 🛠️ Tecnologías & Herramientas
-</div>div>
+
+## 🛠️ Tecnologías & Herramientas
+
 <div align="center">
 
   <h4>Backend & Core</h4>
