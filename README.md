@@ -18,19 +18,23 @@
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+  
 </div>
 
----
+
 
 <h2 align="center"> 🚀 Sobre mí </h2>
+
 <div align="center">
+  
 Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
 
- 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
- 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
- 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
+* 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
+* 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
+* 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
+ 
 </div>
----
+
 
  
 <h2 align="center">🛠️ Tecnologías & Herramientas</h2>
@@ -78,12 +82,14 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
 <div align="center">
 Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
+<div></div>
 
 * 📜 **Formación Java y Spring Framework** - Oracle Next Education
 * 📜 **Oracle Cloud Infrastructure** - Oracle
 * 📜 **Certificación Linux Professional**
 * 📜 **Curso de PHP y MySQL**
 * 📜 **Modelado de Bases de Datos**
+* 
 </div>
 ---
 
