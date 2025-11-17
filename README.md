@@ -22,7 +22,7 @@
 
 ---
 
-## Sobre mí 🚀
+<h2 align="center"> 🚀 Sobre mí </h2>
 <div align="center">
 Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
 
@@ -32,7 +32,8 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 </div>
 ---
 
-## 🛠️ Tecnologías & Herramientas
+ 
+<h2 align="center">🛠️ Tecnologías & Herramientas</h2>
 
 <div align="center">
 
@@ -57,22 +58,25 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
     </a>
   </p>
 
-</div>
+
 
 ---
-<div align="center">
-  ## GitHub Stats 📊
+
+
+<h2 align="center"> 📊 GitHub Stats  </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" height="200" />
 </div>
 
-</div>
----
-<div align="center">
-### 🏆 Certificaciones Destacadas
 
+---
+
+
+<h2 align="center"> 🏆 Certificaciones Destacadas  </h2>
+
+<div align="center">
 Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
 
 * 📜 **Formación Java y Spring Framework** - Oracle Next Education
