@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://www.cristiangodoyangel.dev/" target="_blank">
-      <img src="[https://img.shields.io/badge/Portafolio-WWW-blue?style=for-the-badge&logo=firefox" alt="Portafolio" />
+      <img src="https://img.shields.io/badge/Portafolio-blue?style=for-the-badge&logo=firefox" alt="Portafolio" />
     </a>
     <a href="https://www.linkedin.com/in/cristian-godoy-angel/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
