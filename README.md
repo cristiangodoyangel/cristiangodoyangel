@@ -1,127 +1,90 @@
 
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Mi nombre es Cristian Godoy Angel. </h1></summary>
-  </ul>
-</div>
-
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"> Python - Django - Pandas - Numpy</h1></summary>
-  </ul>
-</div>
-
-
-
-- 🔭 Conocimientos sólidos y experiencia en  ** Python backend - fullstack dev**
-
-- 🧾 Mi portafolio <a href="https://www.cristiangodoyangel.dev/" target="_blank">**www.cristiangodoyangel.dev**</a>
-
-
-<!-- 🎥 Creo contenido para que juntos aprendamos mas de programación   [Canal de Youtube](https://www.youtube.com/@PastorCode)-->
-
-- 📫 Contáctame **cristiangodoyangel@gmail.com**
-
-
-
-
-
-
-<p align="center">
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-
+<div align="center">
+  <h1 style="display: inline-block">Hola 👋, soy Cristian Godoy Angel</h1>
+  <h3>Fullstack Developer | Python & React Specialist</h3>
   
-<a href="" title="Stats">
-      <img align="center" width=54% src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="TROPHY" />
+  <p>
+    <em>Transformo necesidades de negocio complejas en software robusto y escalable.</em>
+  </p>
+
+  <p align="center">
+    <a href="https://www.cristiangodoyangel.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-WWW-blue?style=for-the-badge&logo=firefox" alt="Portafolio" />
     </a>
-
-
-
-<a href="" title="Stats">
-      <img align="center" width=54% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="TROPHY" />
+    <a href="https://www.linkedin.com/in/cristian-godoy-angel/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-  
-  </td>
-</tr>
-</table>
-
-
-
-</p>        
-
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Especialista en Python | Pandas | Numpy | Matplotlib | Seaborn 📋 </h2></summary>
-  </ul>
+    <a href="mailto:cristiangodoyangel@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,pandas,scikitlearn,numpy,matplotlib,seaborn"
-    />
-  </a>
-</p>
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> Tecnologías que manejo </h2></summary>
-  </ul>
+### 🚀 Sobre mí
+
+Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
+
+* 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
+* 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
+* 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+<div align="center">
+
+  <h4>Backend & Core</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,django,cs,java,spring,php,mysql,postgres,firebase" />
+    </a>
+  </p>
+
+  <h4>Frontend & UI</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,figma" />
+    </a>
+  </p>
+
+  <h4>DevOps & Tools</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,aws,azure,vscode,postman" />
+    </a>
+  </p>
+
 </div>
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,terminal,linux,docker,vscode,mysql,firebase,react"
-    />
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🏆 Certificaciones Destacadas
+
+Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
+
+* 📜 **Formación Java y Spring Framework** - Oracle Next Education
+* 📜 **Oracle Cloud Infrastructure** - Oracle
+* 📜 **Certificación Linux Professional**
+* 📜 **Curso de PHP y MySQL**
+* 📜 **Modelado de Bases de Datos**
+
+---
+
+<div align="center">
+  <p>¿Tienes un proyecto en mente? ¡Hablemos!</p>
+  <a href="mailto:cristiangodoyangel@gmail.com">
+    <img src="https://img.shields.io/badge/Enviame_un_Correo-cristiangodoyangel@gmail.com-black?style=flat-square&logo=gmail" />
   </a>
-</p>
-
-
-
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,php,bootstrap,tailwind,aws,azure,idea,phpstorm,visualstudio,maven,postman,postgres,hibernate,ubuntu,mint,html,css,js,nodejs,discord,figma,vercel,au,autocad,ps,pr,sketchup,wordpress"
-    />
-  </a>
-</p>
-
-
-
-
-
-
-
-<h2 align="center">Conecta conmigo 🤝</h2>
-
-<p align="center">
-  <a href="https://www.cristiangodoyangel.dev/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portafolio" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/cristiangodoyangel/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px; filter: brightness(0) invert(1);" />
-  </a>
-  <a href="mailto:cristiangodoyangel@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Email" width="40" height="40" style="background-color:#0077b5; border-radius:50%; padding:10px;" />
-  </a>
-</p>
-
-
-
-
-----------------------------------------------------------------------
+</div>
