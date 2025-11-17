@@ -21,7 +21,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 🚀 Sobre mí
 
 Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
@@ -29,11 +29,11 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 * 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
 * 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
 * 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
-
+</div>
 ---
-
+<div align="center">
 ### 🛠️ Tecnologías & Herramientas
-
+</div>div>
 <div align="center">
 
   <h4>Backend & Core</h4>
@@ -60,15 +60,17 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 </div>
 
 ---
-
+<div align="center">
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" height="200" />
 </div>
----
 
+</div>
+---
+<div align="center">
 ### 🏆 Certificaciones Destacadas
 
 Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
@@ -78,7 +80,7 @@ Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
 * 📜 **Certificación Linux Professional**
 * 📜 **Curso de PHP y MySQL**
 * 📜 **Modelado de Bases de Datos**
-
+</div>
 ---
 
 <div align="center">
