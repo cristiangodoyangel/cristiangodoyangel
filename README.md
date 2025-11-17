@@ -77,20 +77,25 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
 ---
 
-
-<h2 align="center"> 🏆 Certificaciones Destacadas  </h2>
-
 <div align="center">
-Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
-<div></div>
+  
+  <h3>🏆 Certificaciones Destacadas</h3>
+  
+  <p>Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:</p>
+  
+  <br> 
 
-* 📜 **Formación Java y Spring Framework** - Oracle Next Education
-* 📜 **Oracle Cloud Infrastructure** - Oracle
-* 📜 **Certificación Linux Professional**
-* 📜 **Curso de PHP y MySQL**
-* 📜 **Modelado de Bases de Datos**
-* 
-</div>
+  <p>
+    📜 <strong>Formación Java y Spring Framework</strong> - Oracle Next Education<br>
+    📜 <strong>Oracle Cloud Infrastructure</strong> - Oracle<br>
+    📜 <strong>Certificación Linux Professional</strong><br>
+    📜 <strong>Curso de PHP y MySQL</strong><br>
+    📜 <strong>Modelado de Bases de Datos</strong>
+  </p>
+
+  <br> <p>¿Tienes un proyecto en mente? ¡Hablemos!</p>
+
+  </div>
 ---
 
 <div align="center">
