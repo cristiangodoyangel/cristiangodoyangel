@@ -22,13 +22,13 @@
 
 ---
 <div align="center">
-### 🚀 Sobre mí
+## Sobre mí 🚀
 
 Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
 
-* 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
-* 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
-* 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
+ 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
+ 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
+ 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
 </div>
 ---
 <div align="center">
@@ -61,7 +61,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
 ---
 <div align="center">
-### 📊 GitHub Stats
+  ## GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" height="200" />
