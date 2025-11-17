@@ -64,7 +64,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48% height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiangodoyangel&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
 
