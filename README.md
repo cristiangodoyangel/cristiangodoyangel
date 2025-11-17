@@ -83,7 +83,7 @@ Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:
 
 <div align="center">
   <p>¿Tienes un proyecto en mente? ¡Hablemos!</p>
-  <a href="mailto:cristiangodoyangel@gmail.com">
-    <img src="https://img.shields.io/badge/Enviame_un_Correo-blue?style=flat-square&logo=gmail" />
-  </a>
+   <a href="https://www.cristiangodoyangel.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-blue?style=for-the-badge&logo=firefox" alt="Portafolio" />
+    </a>
 </div>
