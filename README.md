@@ -24,6 +24,7 @@
 
 
 <h2 align="center"> 🚀 Sobre mí </h2>
+  <br>
 
 <div align="center">
   
@@ -38,6 +39,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
  
 <h2 align="center">🛠️ Tecnologías & Herramientas</h2>
+  <br>
 
 <div align="center">
 
@@ -68,6 +70,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
 
 <h2 align="center"> 📊 GitHub Stats  </h2>
+  <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristiangodoyangel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" width="48%" height="200" />
@@ -93,7 +96,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
     📜 <strong>Modelado de Bases de Datos</strong>
   </p>
 
-  <br> <p>¿Tienes un proyecto en mente? ¡Hablemos!</p>
+  <br>
 
   </div>
 ---
