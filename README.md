@@ -104,6 +104,6 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 <div align="center">
   <p>¿Tienes un proyecto en mente? ¡Hablemos!</p>
    <a href="https://www.cristiangodoyangel.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-009689?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
 </div>
