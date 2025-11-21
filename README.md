@@ -37,7 +37,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 </div>
 
 
- 
+   <br>
 <h2 align="center">🛠️ Tecnologías & Herramientas</h2>
   <br>
 
