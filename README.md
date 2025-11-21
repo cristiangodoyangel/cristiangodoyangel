@@ -79,7 +79,7 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 
 <div align="center">
   
-  <h3>🏆 Certificaciones Destacadas</h3>
+  <h2 align="center"> 🏆 Certificaciones Destacadas</h2>
   
   <p>Aunque mi foco es el desarrollo, mi background técnico es amplio y certificado:</p>
   
