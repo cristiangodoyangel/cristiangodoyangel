@@ -9,13 +9,13 @@
 
   <p align="center">
     <a href="https://www.cristiangodoyangel.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-esmeralda?style=for-the-badge&logo=firefox" alt="Portafolio" />
+      <img src="https://img.shields.io/badge/Portafolio-009689?style=for-the-badge&logo=firefox" alt="Portafolio" />
     </a>
     <a href="https://www.linkedin.com/in/cristian-godoy-angel/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-009689?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:cristiangodoyangel@gmail.com">
-      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-009689?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   
