@@ -28,11 +28,11 @@
 
 <div align="center">
   
-Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)** y **JavaScript (React)**. Me apasiona construir soluciones integrales, desde la arquitectura de base de datos hasta la experiencia de usuario final.
+Soy un Desarrollador Fullstack tengo experiencia sólida  **Python (Django)** y **JavaScript (React)**. contruyo  soluciones integrales a problemas reales.
 
-* 🔭 **Enfoque actual:** Desarrollo de aplicaciones SaaS y E-commerce escalables.
+
 * 💼 **Experiencia:** Arquitecturas Multi-Tenant, Integración de Pasarelas de Pago, APIs RESTful, y Sistemas de Gestión.
-* 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
+* 🛠️ **Stack Principal:** Django, Spring Boots,DRF, React, PostgreSQL, Docker.
  
 </div>
 <br>
