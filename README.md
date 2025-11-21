@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="display: inline-block">Hola 👋, soy Cristian Godoy Angel</h1>
-  <h3>Fullstack Developer | Python & React Specialist</h3>
+  <h3>Fullstack Developer | Python - Java | Astro - React </h3>
   
   <p>
     <em>Transformo necesidades de negocio complejas en software robusto y escalable.</em>
