@@ -35,12 +35,9 @@ Soy un Desarrollador Fullstack especializado en el ecosistema **Python (Django)*
 * 🛠️ **Stack Principal:** Django, DRF, React, PostgreSQL, Docker.
  
 </div>
-
-
-   <br>
+<br>
 <h2 align="center">🛠️ Tecnologías & Herramientas</h2>
-  <br>
-
+<br>
 <div align="center">
 
   <h4>Backend & Core</h4>
